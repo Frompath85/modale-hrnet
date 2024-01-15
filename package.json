@@ -1,6 +1,6 @@
 {
   "name": "modale-hrnet",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "a modal for HRnet project",
   "main": "index.js",
   "scripts": {

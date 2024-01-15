@@ -1,7 +1,8 @@
 {
-  "name": "modale-hrnet",
-  "version": "1.0.5",
+  "name": "modale-hrnet-frompath",
+  "version": "1.0.4",
   "description": "a modal for HRnet project",
+  "readme": "README.md",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Frompath85/modale-hrnet.git"
   },
-  "keywords": [],
+  "keywords": ["hrnet", "modale"],
   "author": "",
   "license": "ISC",
   "bugs": {

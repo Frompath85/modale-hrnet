@@ -11,20 +11,11 @@ Pour installer la modale, utilisez npm ou yarn :
   # ou
   yarn i modale-hrnet-frompath
 ```
-## Deployment
-
-le composant est conçu avec tailwinds, dans votre fichier index.html ajouter ce script dans la balise <head>
-
-```bash
-<script src="https://cdn.tailwindcss.com"></script>
-```
-
 
 ## Usage/Examples
 Importez la modale du package installé et le useState, et lui passez  les parametres nécessaires :
 
 1- textModal : le texte de notification
-
 2- linkModal : le texte du lien  
 3- linkTo : le nom de la page
 

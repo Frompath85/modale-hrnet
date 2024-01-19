@@ -1,6 +1,6 @@
 {
   "name": "modale-hrnet-frompath",
-  "version": "1.0.5",
+  "version": "1.2.6",
   "description": "a modal for HRnet project",
   "readme": "README.md",
   "main": "index.js",
@@ -24,7 +24,8 @@
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1"
   },
   "homepage": "https://github.com/Frompath85/modale-hrnet#readme"
 }

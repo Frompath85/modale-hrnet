@@ -3,24 +3,16 @@
     justify-content: center;
     justify-items: center;
     position: absolute;
-    right: 30%;
-    top: 45%;
-    width: 40%;
-    border-radius: 8px;
-}
-.GreyBackgroung{
-    background-color: azure;
-    opacity: 0.8;
+    right: 0px;
+    top: 0px;
     width: 100%;
     height: 100%;
-    position: fixed;
-    top: 0px;
-    right: 0px;
+    background-color: rgba(58, 58, 58, 0.5);
 }
 .CloseButton{
     position: absolute;
-    top: -20px;
-    right: -20px;
+    top: -12px;
+    right: -12px;
     background-color: transparent;
 }
 .MyModale{
@@ -30,7 +22,9 @@
     border-radius: 8px;
     box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
     background-color: white;
-    width: 100%;
+    width: 40%;
+    height: 150px;
+    top: 40%;
 }
 .CloseIcon{
     width: 40px;
